@@ -1,227 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://omnia-makers.github.io/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/"/>
+         <loc>https://omnia-makers.github.io/en/</loc>
+         <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-        <loc>https://omnia-makers.github.io/contacto/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/contacto/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/contacto/"/>
+         <loc>https://omnia-makers.github.io/en/contacto/</loc>
+         <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-        <loc>https://omnia-makers.github.io/social/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/social/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/social/"/>
+         <loc>https://omnia-makers.github.io/en/social/</loc>
+         <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-        <loc>https://omnia-makers.github.io/articulos/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/articulos/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/articulos/"/>
+         <loc>https://omnia-makers.github.io/en/articulos/</loc>
+         <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-        <loc>https://omnia-makers.github.io/cursos/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/cursos/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/cursos/"/>
+         <loc>https://omnia-makers.github.io/en/cursos/</loc>
+         <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-        <loc>https://omnia-makers.github.io/cursos/iniciacion_diseno_3d_blender/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/cursos/iniciacion_diseno_3d_blender/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/cursos/iniciacion_diseno_3d_blender/"/>
+         <loc>https://omnia-makers.github.io/en/cursos/iniciacion_diseno_3d_blender/</loc>
+         <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-        <loc>https://omnia-makers.github.io/cursos/iniciacion_diseno_3d_nomad/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/cursos/iniciacion_diseno_3d_nomad/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/cursos/iniciacion_diseno_3d_nomad/"/>
+         <loc>https://omnia-makers.github.io/en/cursos/iniciacion_diseno_3d_nomad/</loc>
+         <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-        <loc>https://omnia-makers.github.io/cursos/iniciacion_diseno_3d_onshape/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/cursos/iniciacion_diseno_3d_onshape/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/cursos/iniciacion_diseno_3d_onshape/"/>
+         <loc>https://omnia-makers.github.io/en/cursos/iniciacion_diseno_3d_onshape/</loc>
+         <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-        <loc>https://omnia-makers.github.io/cursos/iniciacion_diseno_3d_tinkercad/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/cursos/iniciacion_diseno_3d_tinkercad/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/cursos/iniciacion_diseno_3d_tinkercad/"/>
+         <loc>https://omnia-makers.github.io/en/cursos/iniciacion_diseno_3d_tinkercad/</loc>
+         <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-        <loc>https://omnia-makers.github.io/cursos/iniciacion_impresion_3d/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/cursos/iniciacion_impresion_3d/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/cursos/iniciacion_impresion_3d/"/>
+         <loc>https://omnia-makers.github.io/en/cursos/iniciacion_impresion_3d/</loc>
+         <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-        <loc>https://omnia-makers.github.io/glosario/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/glosario/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/glosario/"/>
+         <loc>https://omnia-makers.github.io/en/glosario/</loc>
+         <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-        <loc>https://omnia-makers.github.io/glosario/3d_diseno/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/glosario/3d_diseno/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/glosario/3d_diseno/"/>
+         <loc>https://omnia-makers.github.io/en/glosario/3d_diseno/</loc>
+         <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-        <loc>https://omnia-makers.github.io/glosario/3d_impresion/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/glosario/3d_impresion/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/glosario/3d_impresion/"/>
+         <loc>https://omnia-makers.github.io/en/glosario/3d_impresion/</loc>
+         <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-        <loc>https://omnia-makers.github.io/proyectos/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/proyectos/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/proyectos/"/>
+         <loc>https://omnia-makers.github.io/en/proyectos/</loc>
+         <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-        <loc>https://omnia-makers.github.io/proyectos/barco/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/proyectos/barco/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/proyectos/barco/"/>
+         <loc>https://omnia-makers.github.io/en/proyectos/barco/</loc>
+         <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-        <loc>https://omnia-makers.github.io/proyectos/separador_especiero/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/proyectos/separador_especiero/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/proyectos/separador_especiero/"/>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/en/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/"/>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/en/contacto/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/contacto/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/contacto/"/>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/en/social/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/social/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/social/"/>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/en/articulos/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/articulos/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/articulos/"/>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/en/cursos/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/cursos/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/cursos/"/>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/en/cursos/iniciacion_diseno_3d_blender/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/cursos/iniciacion_diseno_3d_blender/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/cursos/iniciacion_diseno_3d_blender/"/>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/en/cursos/iniciacion_diseno_3d_nomad/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/cursos/iniciacion_diseno_3d_nomad/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/cursos/iniciacion_diseno_3d_nomad/"/>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/en/cursos/iniciacion_diseno_3d_onshape/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/cursos/iniciacion_diseno_3d_onshape/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/cursos/iniciacion_diseno_3d_onshape/"/>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/en/cursos/iniciacion_diseno_3d_tinkercad/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/cursos/iniciacion_diseno_3d_tinkercad/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/cursos/iniciacion_diseno_3d_tinkercad/"/>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/en/cursos/iniciacion_impresion_3d/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/cursos/iniciacion_impresion_3d/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/cursos/iniciacion_impresion_3d/"/>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/en/glosario/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/glosario/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/glosario/"/>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/en/glosario/3d_diseno/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/glosario/3d_diseno/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/glosario/3d_diseno/"/>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/en/glosario/3d_impresion/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/glosario/3d_impresion/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/glosario/3d_impresion/"/>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/en/proyectos/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/proyectos/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/proyectos/"/>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/en/proyectos/barco/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/proyectos/barco/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/proyectos/barco/"/>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/en/proyectos/separador_especiero/</loc>
-        <lastmod>2024-12-24</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/proyectos/separador_especiero/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/proyectos/separador_especiero/"/>
+         <loc>https://omnia-makers.github.io/en/proyectos/separador_especiero/</loc>
+         <lastmod>2025-01-03</lastmod>
     </url>
 </urlset>
