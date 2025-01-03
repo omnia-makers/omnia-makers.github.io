@@ -1,0 +1,3 @@
+Sitemap: https://omnia-makers.github.io/sitemap.xml
+User-agent: *
+Disallow:
