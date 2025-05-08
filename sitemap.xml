@@ -1,54 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://omnia-makers.github.io/</loc>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/"/>
-        <lastmod>2024-01-06T20:30:00+00:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+         <loc>https://omnia-makers.github.io/en/</loc>
+         <lastmod>2025-05-08</lastmod>
     </url>
     <url>
-        <loc>https://omnia-makers.github.io/en/</loc>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://omnia-makers.github.io/en/"/>
-        <lastmod>2024-01-06T20:30:00+00:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/proyectos/</loc>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/proyectos/"/>
-        <lastmod>2024-01-06T20:30:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/articulos/</loc>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/articulos/"/>
-        <lastmod>2024-01-06T20:30:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/cursos/</loc>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/cursos/"/>
-        <lastmod>2024-01-06T20:30:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/glosario/</loc>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/glosario/"/>
-        <lastmod>2024-01-06T20:30:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://omnia-makers.github.io/contacto/</loc>
-        <xhtml:link rel="alternate" hreflang="es" href="https://omnia-makers.github.io/contacto/"/>
-        <lastmod>2024-01-06T20:30:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+         <loc>https://omnia-makers.github.io/en/social/</loc>
+         <lastmod>2025-05-08</lastmod>
     </url>
 </urlset>
